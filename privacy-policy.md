@@ -1,7 +1,7 @@
-**We thank the users for using ShareBot, and have read the privacy policy, and we assure that all the stored information is completely safe and you have the right to request the deletion of this data by contact with us.**
+**We thank the users for using DangerBot, and have read the privacy policy, and we assure that all the stored information is completely safe and you have the right to request the deletion of this data by contact with us.**
 
 > Data and information we request from users:
-- ShareBot is store Server & Channel ID for set sharing channel, And share your server.
+- DangerBot is store Server & Channel ID for set sharing channel, And share your server.
 
 > Users responsibility:
 - Don't give your discord account, password for anyone even if someone from our crew, And we don't need it for anything. We need only the user id.
